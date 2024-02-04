@@ -219,7 +219,7 @@ color: #2E2F42;
 .footer {
     background-color: #2e2f42;
   padding-top: 100px;
-  padding-right: 100px;
+  padding-bottom: 100px;
     
 }
 
@@ -233,6 +233,7 @@ color: var(--CLOUD, #F4F4FD);
     line-height: 24px;
     /* 150% */
     letter-spacing: 0.32px;
+    max-width: 264px;
 }
 
 .page-header {
@@ -280,6 +281,7 @@ color: var(--IRIS, #4D5AE5);
     letter-spacing: 0.03em;
     text-transform: uppercase;
     display: inline-block;
+    margin-bottom: 16px;
    
 }
 .logo-title-footer {
@@ -433,6 +435,6 @@ padding-top: 120px;
 }
 
 .title-image-link {
-    margin-bottom: 8px;
+margin-bottom: 8px;
 
 }
