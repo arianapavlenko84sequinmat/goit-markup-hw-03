@@ -422,7 +422,7 @@ border: 1px solid #e7e9fc;
     display: flex;
 flex-wrap: wrap;
 gap: 48px 24px;
-width: calc((100% - 48px) / 3);
+
 
     
 }
@@ -452,5 +452,5 @@ margin-bottom: 8px;
 }
 
 .portfolio-list-item {
-
+width: calc((100% - 48px) / 3);
 }
